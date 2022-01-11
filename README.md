@@ -4,6 +4,7 @@ This github repository follows the article I [posted on my blog](http://rog3rsm1
 
 ```bash
 ./script/install.sh
+./script/reset.sh
 ```
 
 The default credentials for the Debian image are `debian:debian` and `root:root`.
